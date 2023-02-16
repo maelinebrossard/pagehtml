@@ -1,0 +1,30 @@
+.rouge{
+color: rgb(8, 49, 22);
+
+}
+
+.bleu{
+    color: rgb(12, 93, 56);
+    
+    }
+
+.img{
+height: 150px;
+width: 150px;
+
+}
+
+.souligne{
+text-decoration: underline;
+
+}
+
+.boite {
+    border: 2px solid rgb(253, 122, 0);
+    width: 80%;
+    height: 500px ;
+    display : flex;
+    justify-content:s
+    align-items: center;
+    flex-direction: column;
+}
